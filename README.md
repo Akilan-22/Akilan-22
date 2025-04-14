@@ -1,5 +1,5 @@
 <h1 align="center" style="font-family:serif; font-weight:900;">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Abisheik!;Full-Stack+Developer;Creative+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&center=true&vCenter=true&width=435&lines=Hi+I'm+Akilan!;Full-Stack+Developer;Creative+Tech+Educator;Building+Cool+Things+🚀" alt="Typing Animation" />
 </h1>
 
 <p align="center">
@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://instagram.com/codebyabi" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://youtube.com/@codebyabi" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968852.png" width="50" height="50"/></a>
-  <a href="https://www.linkedin.com/in/abisheik-r-ba932b274/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/akilan-s-0a8524338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:abisheikabisheik102@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
