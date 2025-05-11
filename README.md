@@ -29,7 +29,7 @@
   <a href="https://instagram.com/codebyabi" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
   <a href="https://youtube.com/@codebyabi" target="_blank"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968852.png" width="50" height="50"/></a>
   <a href="https://www.linkedin.com/in/akilan-s-0a8524338?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:abisheikabisheik102@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="mailto:akilansk2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 </p>
 
 ---
@@ -38,7 +38,7 @@
 
 ### 💻 <strong>Languages & Frameworks</strong>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,bootstrap" />
 </p>
 
 ### ⚙️ <strong>Tools I Use</strong>
@@ -49,10 +49,6 @@
 ---
 
 ## 💻 <span style="font-family:serif; font-size: 22px;"><strong>My Gear Setup</strong></span>
-
-| 💻 **Laptop**           | 🧠 **Processor**  | 🎮 **Graphics**      | 🔋 **RAM** |
-|------------------------|------------------|----------------------|------------|
-| Lenovo IdeaPad Slim 3  | Ryzen 5 4600U    | Radeon Integrated    | 8GB        |
 
 ---
 
